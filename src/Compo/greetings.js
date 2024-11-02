@@ -1,9 +1,11 @@
 import React from 'react'
 
-const Greet = () => {
+const greetings = () => {
   return (
-        <h2>this is the greeting function working</h2>
-)
+    <div>
+      
+    </div>
+  )
 }
-export default Greet;
 
+export default greetings
